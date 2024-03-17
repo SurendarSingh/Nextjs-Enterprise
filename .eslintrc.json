@@ -19,5 +19,13 @@
     ],
     "no-console": 1
   },
-  "ignorePatterns": ["!.*", "dist", "node_modules"]
+  "ignorePatterns": [
+    "!.*",
+    "dist",
+    "node_modules",
+    "package-lock.json",
+    ".next",
+    "build",
+    "pubilc"
+  ]
 }
